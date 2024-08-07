@@ -1,0 +1,8 @@
+Flask==2.0.1
+numpy
+sklearn
+pandas
+nltk
+seaborn
+regex
+scikit-learn
